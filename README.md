@@ -1,8 +1,3 @@
-# README.md Completo - IdeiaTech SmartLeader
-
-Aqui está o README.md completo e profissional em formato markdown:
-
-```markdown
 <div align="center">
 
 # 🚀 IdeiaTech - SmartLeader API
@@ -450,14 +445,9 @@ Este projeto foi desenvolvido como parte da **Global Solution 2025** da FIAP.
 | Pedro Augusto Costa Ladeira | 558514 |
 | João Pedro Amorim Brito Virgesns | 559213 |
 
----
-
 <div align="center">
 
 
 [⬆ Voltar ao topo](#-ideiatech---smartleader-api)
 
 </div>
-```
-
-
