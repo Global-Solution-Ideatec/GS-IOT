@@ -435,6 +435,12 @@ Este projeto foi desenvolvido como parte da **Global Solution 2025** da FIAP.
 
 ---
 
+## 📝 Link do vídeo sobre o projeto 
+
+- [YouTube](https://youtu.be/j1U0auIki6s)
+
+---
+
 ## 👨‍💻 Interagntes 
 
 **IdeiaTech Team**
